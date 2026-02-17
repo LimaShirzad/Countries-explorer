@@ -60,6 +60,7 @@ The app allows users to search countries by name and filter them by region.
 ### 🔎 Search Results
 ![Search Results](./public/screenshots/search.png)
 
+
 ---
 
 ## Submission Instructions
